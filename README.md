@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @donkeykickdesign
 
-- 📫 How to reach me admin@dlonkeykickdesign
+- 📫 How to reach me admin@donkeykickdesign
 
 <!---
 donkeykickdesign/donkeykickdesign is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
